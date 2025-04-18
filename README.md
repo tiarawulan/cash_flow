@@ -1,6 +1,6 @@
-# coba_lagi
+# CASHFLOW
 
-A new Flutter project.
+Aplikasi ini dibuat untuk mengatur keuangan yang seringkali sulit dikendalikan. Aplikasi ini terinspirasi dari film Home Sweet Alone, dengan harapan dapat membantu pengguna dalam menata keuangan mereka secara lebih rapi dan terorganisir.
 
 ## Getting Started
 
